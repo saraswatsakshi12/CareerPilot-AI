@@ -53,5 +53,4 @@ Deployment: run the two containers on any host (Render, Railway, a VM); mount `d
 `backend/app/{api,services,models.py,schemas.py,database.py,config.py}` · `frontend/` · `data/jobs_demo.csv` · `scripts/` · `tests/` · `docs/`
 
 ## Known limitations
-Rule-based resume/preference parsing; keyword-overlap history recall; no authentication; SQLite is single-node;
-scanned (image) PDFs unsupported.
+Rule-based resume/preference parsing; keyword-overlap history recall; no authentication; SQLite is single-node
